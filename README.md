@@ -1,6 +1,6 @@
-## **SkillCraft Technology - Interactive Navigation Landing Page
+**SkillCraft Technology - Interactive Navigation Landing Page**
 
-## **A modern, responsive single-page landing website for SkillCraft Technology featuring an interactive fixed navigation bar with smooth scroll effects and beautiful hover animations.
+*A modern, responsive single-page landing website for SkillCraft Technology featuring an interactive fixed navigation bar with smooth scroll effects and beautiful hover animations.*
 
 📋## **Project Overview
 
